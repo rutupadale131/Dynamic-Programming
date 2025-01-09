@@ -1,4 +1,4 @@
-# dsa
+# Dynamic Programming
 DSA codes
 <br>
 This project consists of solved DSA problems.
